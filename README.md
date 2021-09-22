@@ -1,8 +1,5 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tqhit.tqhit) 
-![GitHub followers](https://img.shields.io/github/followers/tqhit)
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   
 <h3>
     
@@ -45,3 +42,6 @@ class About extends Me
 
 ```
 </h3>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tqhit.tqhit) 
+![GitHub followers](https://img.shields.io/github/followers/tqhit)
